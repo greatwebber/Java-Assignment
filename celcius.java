@@ -2,8 +2,8 @@ import java.util.*;
 public class MyClass {
     public static void main(String args[]) {
       Scanner input = new Scanner (System.in);
-      System.out.println("MATRIC NUM:- CS20190201238");
-      System.out.println("NAME :- OLADELE BAROKAH MORENIKEJI");
+      System.out.println("MATRIC NUM:- CS2019020XXXX");
+      System.out.println("NAME :- OLADXXXXXXXX");
       
       float F, C;
       System.out.println("Enter F Value ");
