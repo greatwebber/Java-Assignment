@@ -3,8 +3,8 @@ public class main{
     public static void main (String[] args){
         Scanner input = new Scanner (System.in);
         
-        System.out.println("MATRIC NUM:- CS20190201238");
-        System.out.println("NAME :- OLADELE BAROKAH MORENIKEJI");
+        System.out.println("MATRIC NUM:- CS2019020XXX");
+        System.out.println("NAME :- OLADEXXXXXXX");
         
         int FirstNum, SecondNum;
         System.out.println("ENTER YOUR FIRST NUMBER");
